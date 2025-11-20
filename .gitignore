@@ -1,5 +1,5 @@
 # Wiki clone directory (use docs/wiki/ for source files)
-wiki/
+/wiki/
 
 # OS files
 .DS_Store
