@@ -1,0 +1,17 @@
+# Wiki clone directory (use docs/wiki/ for source files)
+wiki/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
