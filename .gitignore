@@ -1,0 +1,25 @@
+# Fichiers de configuration avec secrets
+scripts/.env
+.env
+
+# Environnement virtuel Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
